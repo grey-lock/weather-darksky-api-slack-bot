@@ -1,7 +1,5 @@
-# cortex-weather-slack-bot
+# weather-slack-bot
 A Slack Weather Bot that tells you the weather based on specfic commands. Built with Node.JS.
-
-# Cortex Building Intelligence Assessment
 
 ### User stories
 
