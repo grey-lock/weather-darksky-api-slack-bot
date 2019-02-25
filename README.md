@@ -1,4 +1,4 @@
-# weather-slack-bot
+# weather-darksky-api-slack-bot
 A Slack Weather Bot that tells you the weather based on specfic commands. Built with Node.JS.
 
 ### User stories
